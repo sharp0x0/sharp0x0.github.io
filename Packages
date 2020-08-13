@@ -5,7 +5,7 @@ Maintainer: Sharper
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/damn.deb
-Size: 172
+Size: 170562
 MD5sum: fee3af1b6bb44687af34d029ed42d6da
 Description: You don't have to know :D
 Name: Damn
