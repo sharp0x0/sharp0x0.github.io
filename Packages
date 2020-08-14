@@ -1,12 +1,12 @@
 Package: com.apple.damn
-Version: 0.0.1
+Version: 0.1.11
 Section: Tweaks
 Maintainer: Sharper
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/damn.deb
-Size: 170562
-MD5sum: fee3af1b6bb44687af34d029ed42d6da
+Size: 78000
+MD5sum: 58d792a4249e8bedbfd603f5ca880367
 Description: You don't have to know :D
 Name: Damn
 Author: Sharper
