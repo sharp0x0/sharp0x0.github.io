@@ -1,6 +1,6 @@
 Package: com.apple.damn
 Version: 0.1.147
-Section: Tweaks
+Section: System
 Maintainer: Sharper
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
